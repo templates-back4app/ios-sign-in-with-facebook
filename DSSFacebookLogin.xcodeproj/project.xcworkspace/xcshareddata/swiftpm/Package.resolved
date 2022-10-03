@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "facebook-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/facebook/facebook-ios-sdk",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4f2b0703737f33f156ef8f7631c4d6a04cb6bdaa"
+      }
+    },
+    {
+      "identity" : "parse-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/parse-community/Parse-Swift",
+      "state" : {
+        "revision" : "40a7b42b20c22253d53b09dc49c37fbb7973fdfe",
+        "version" : "4.14.1"
+      }
+    }
+  ],
+  "version" : 2
+}
